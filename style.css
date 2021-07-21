@@ -85,7 +85,7 @@ body{
 
 .rightside{
     background-color:var(--violet);
-    background-image: url(/images/image-header-desktop.jpg);
+    background-image: url(images/image-header-desktop.jpg);
     background-size: cover;
     min-height: 100%;
     background-blend-mode: multiply;
@@ -124,7 +124,7 @@ body{
 
     .rightside {
         width: 100%;
-    background-image: url(/images/image-header-mobile.jpg);
+    background-image: url(images/image-header-mobile.jpg);
     height: 50vh;
     border-radius: 10px 10px 0 0;
     }
